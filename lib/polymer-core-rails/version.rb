@@ -1,3 +1,3 @@
 module PolymerCoreRails
-  VERSION = "0.2.6"
+  VERSION = "1.9.1"
 end
