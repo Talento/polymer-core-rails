@@ -2,6 +2,7 @@
   "name": "polymer-core-rails",
   "private": true,
   "dependencies": {
-    "core-elements": "PolymerElements/iron-elements"
+    "core-elements": "PolymerElements/iron-elements",
+    "paper-checkbox": "PolymerElements/paper-checkbox"
   }
 }
