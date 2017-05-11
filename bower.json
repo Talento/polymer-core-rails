@@ -3,6 +3,7 @@
   "private": true,
   "dependencies": {
     "core-elements": "PolymerElements/iron-elements",
-    "paper-checkbox": "PolymerElements/paper-checkbox"
+    "paper-checkbox": "PolymerElements/paper-checkbox",
+    "paper-input": "PolymerElements/paper-input"
   }
 }
